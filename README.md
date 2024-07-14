@@ -36,7 +36,8 @@ The model is able to generate captions for images with an accuracy of 70%. The m
 
 # Implementation of Dynamic Mode Decomposition model
 
-![Work_flow made to implement DMD](workflow.jpeg)
+![Work_flow made to implement DMD](https://github.com/user-attachments/assets/cf8a4654-bc5b-44ee-90fd-ac7f3e04abbb)
+
 
 
 
